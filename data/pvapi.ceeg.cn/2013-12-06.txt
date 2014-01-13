@@ -1,0 +1,163 @@
+113.200.153.106	2013-12-06 21:57:31	200	1224	1143	3285	GET	/api/posts/47/?device=iPhone&version=1.3&pv_u=67c6a1e7ce56d3d6fa748ab6d9af3fd7c47		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.200.153.106	2013-12-06 21:56:43	200	1223	1370	106	GET	/api/posts/49/?device=iPhone&version=1.3&pv_u=67c6a1e7ce56d3d6fa748ab6d9af3fd7c47		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.200.153.106	2013-12-06 21:56:42	200	1224	4507	116	GET	/api/news/list/?device=iPhone&version=1.3&pv_u=67c6a1e7ce56d3d6fa748ab6d9af3fd7c47		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.200.153.106	2013-12-06 21:56:23	200	1223	2053	115	GET	/api/bbs/list/?device=iPhone&version=1.3&pv_u=67c6a1e7ce56d3d6fa748ab6d9af3fd7c47		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.200.153.106	2013-12-06 21:56:22	200	1223	2053	127	GET	/api/bbs/list/?device=iPhone&version=1.3&pv_u=67c6a1e7ce56d3d6fa748ab6d9af3fd7c47		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.200.153.106	2013-12-06 21:56:20	200	1223	629	98	GET	/api/posts/81/?device=iPhone&version=1.3&pv_u=67c6a1e7ce56d3d6fa748ab6d9af3fd7c47		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.200.153.106	2013-12-06 21:56:15	200	1223	2053	89	GET	/api/bbs/list/?device=iPhone&version=1.3&pv_u=67c6a1e7ce56d3d6fa748ab6d9af3fd7c47		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.200.153.106	2013-12-06 21:56:05	200	1223	1195	147	GET	/api/posts/77/?device=iPhone&version=1.3&pv_u=67c6a1e7ce56d3d6fa748ab6d9af3fd7c47		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.200.153.106	2013-12-06 21:55:36	200	1188	45832	516	GET	/files/2013/09/13/1379062934205/picFile.png		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.200.153.106	2013-12-06 21:55:35	200	1188	45832	412	GET	/files/2013/09/13/1379062934205/picFile.png		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.200.153.106	2013-12-06 21:55:35	200	1222	2053	113	GET	/api/bbs/list/?device=iPhone&version=1.3&pv_u=67c6a1e7ce56d3d6fa748ab6d9af3fd7c47		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.200.153.106	2013-12-06 21:54:54	200	1108	60133	3	GET	/resources/attach/2013/08/22/1377160636800/picFile.png		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.200.153.106	2013-12-06 21:54:54	200	1349	90	127	POST	/api/device/?device=iPhone&version=1.3&pv_u=67c6a1e7ce56d3d6fa748ab6d9af3fd7c47		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.200.153.106	2013-12-06 21:54:54	200	1132	4507	304	GET	/api/news/list/?device=iPhone&version=1.3&pv_u=67c6a1e7ce56d3d6fa748ab6d9af3fd7c47		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.200.153.106	2013-12-06 21:54:54	200	1108	71142	2	GET	/resources/attach/2013/08/22/1377160886086/picFile.png		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+119.78.240.119	2013-12-06 19:58:52	404	1073	300	9	GET	/favicon.ico		Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; 360space)
+125.213.237.19	2013-12-06 19:57:40	304	1291	0	2	GET	/resources/attach/2013/08/22/1377160636800/picFile.png		pv/1.3 CFNetwork/548.1.4 Darwin/11.0.0
+125.213.237.19	2013-12-06 19:57:36	304	1291	0	1	GET	/resources/attach/2013/08/22/1377160798533/picFile.png		pv/1.3 CFNetwork/548.1.4 Darwin/11.0.0
+125.213.237.19	2013-12-06 19:57:36	304	1291	0	2	GET	/resources/attach/2013/08/22/1377161009936/picFile.png		pv/1.3 CFNetwork/548.1.4 Darwin/11.0.0
+125.213.237.19	2013-12-06 19:57:27	304	1253	0	2	GET	/resources/attach/2013/08/22/1377160886086/picFile.png		pv/1.3 CFNetwork/548.1.4 Darwin/11.0.0
+125.213.237.19	2013-12-06 19:57:26	304	1253	0	2	GET	/resources/attach/2013/08/22/1377160636800/picFile.png		pv/1.3 CFNetwork/548.1.4 Darwin/11.0.0
+125.213.237.19	2013-12-06 19:57:22	200	1091	4507	65	GET	/api/news/list/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/548.1.4 Darwin/11.0.0
+125.213.237.19	2013-12-06 19:57:22	200	1255	90	64	POST	/api/device/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/548.1.4 Darwin/11.0.0
+125.213.237.19	2013-12-06 19:57:22	200	1107	71142	3	GET	/resources/attach/2013/08/22/1377160886086/picFile.png		pv/1.3 CFNetwork/548.1.4 Darwin/11.0.0
+125.213.237.19	2013-12-06 19:57:22	304	1200	0	2	GET	/resources/attach/2013/08/22/1377160636800/picFile.png		pv/1.3 CFNetwork/548.1.4 Darwin/11.0.0
+157.55.33.178	2013-12-06 19:50:23	200	1133	1701	4	GET	/		Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+220.181.132.198	2013-12-06 19:03:19	200	1341	578	2	GET	/resources/theme/landina/css/skins/blue.css	http://pvapi.ceeg.cn/	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.11 (KHTML, like Gecko) DumpRenderTree/0.0.0.0 Safari/536.11
+220.181.132.198	2013-12-06 19:03:19	200	1345	1220	3	GET	/resources/theme/landina/css/styles-layout2.css	http://pvapi.ceeg.cn/	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.11 (KHTML, like Gecko) DumpRenderTree/0.0.0.0 Safari/536.11
+220.181.132.198	2013-12-06 19:03:19	200	1337	4726	2	GET	/resources/theme/landina/css/styles.css	http://pvapi.ceeg.cn/	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.11 (KHTML, like Gecko) DumpRenderTree/0.0.0.0 Safari/536.11
+220.181.132.198	2013-12-06 19:03:19	200	1220	1701	4	GET	/		Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.11 (KHTML, like Gecko) DumpRenderTree/0.0.0.0 Safari/536.11
+106.120.160.109	2013-12-06 19:01:38	200	1171	5386	4	GET	/	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0)
+121.232.210.207	2013-12-06 18:58:08	404	1366	239	9	GET	/favicon.ico		Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+121.232.210.207	2013-12-06 18:58:07	200	1494	4513	3	GET	/resources/theme/landina/img/blog.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+121.232.210.207	2013-12-06 18:58:07	200	1497	7619	2	GET	/resources/theme/landina/img/pattern.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+121.232.210.207	2013-12-06 18:58:07	200	1492	661	2	GET	/resources/theme/landina/img/bg.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+121.232.210.207	2013-12-06 18:58:07	200	1505	26139	3	GET	/resources/theme/landina/img/layout2/mockup2.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+121.232.210.207	2013-12-06 18:58:07	200	1496	4081	2	GET	/resources/theme/landina/img/top-bg.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+121.232.210.207	2013-12-06 18:58:07	200	1505	2774	2	GET	/resources/theme/landina/img/skins/blue/logo.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+121.232.210.207	2013-12-06 18:58:07	200	1499	3283	10	GET	/resources/theme/landina/img/top-arrow.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+121.232.210.207	2013-12-06 18:58:07	200	1505	322945	17	GET	/resources/theme/landina/img/layout2/main-c2.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+121.232.210.207	2013-12-06 18:58:07	200	1500	2813	3	GET	/resources/theme/landina/img/bg-checker.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+121.232.210.207	2013-12-06 18:58:07	200	1458	578	3	GET	/resources/theme/landina/css/skins/blue.css	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+121.232.210.207	2013-12-06 18:58:07	200	1504	3392	4	GET	/resources/theme/landina/img/feature1-hover.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+121.232.210.207	2013-12-06 18:58:07	200	1485	390	6	GET	/resources/images/qrcode.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+121.232.210.207	2013-12-06 18:58:07	200	1504	5185	3	GET	/resources/theme/landina/img/feature3-hover.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+121.232.210.207	2013-12-06 18:58:07	200	1498	4711	3	GET	/resources/theme/landina/img/feature3.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+121.232.210.207	2013-12-06 18:58:07	200	1504	4867	7	GET	/resources/theme/landina/img/feature2-hover.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+121.232.210.207	2013-12-06 18:58:07	200	1506	41493	3	GET	/resources/theme/landina/img/layout2/app-shot.jpg	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+121.232.210.207	2013-12-06 18:58:07	200	1488	72781	8	GET	/resources/images/indexlogo.jpg	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+121.232.210.207	2013-12-06 18:58:07	200	1498	4515	10	GET	/resources/theme/landina/img/feature2.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+121.232.210.207	2013-12-06 18:58:07	200	1498	3314	3	GET	/resources/theme/landina/img/feature1.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+121.232.210.207	2013-12-06 18:58:07	200	1462	1220	8	GET	/resources/theme/landina/css/styles-layout2.css	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+121.232.210.207	2013-12-06 18:58:06	200	1359	1701	1586	GET	/	http://pv.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+121.232.210.207	2013-12-06 18:58:06	200	1454	4726	9	GET	/resources/theme/landina/css/styles.css	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+121.232.210.207	2013-12-06 18:58:06	200	1359	1701	3253	GET	/	http://pv.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+157.55.33.178	2013-12-06 18:28:17	404	1110	299	12	GET	/robots.txt		Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+122.234.239.61	2013-12-06 16:08:42	200	1144	4507	93	GET	/api/news/list/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/672.0.8 Darwin/14.0.0
+122.234.239.61	2013-12-06 16:07:29	200	1149	45832	352	GET	/files/2013/09/13/1379062934205/picFile.png		pv/1.3 CFNetwork/672.0.8 Darwin/14.0.0
+122.234.239.61	2013-12-06 16:07:29	200	1142	3049	8	GET	/resources/images/default_avatar.jpg		pv/1.3 CFNetwork/672.0.8 Darwin/14.0.0
+122.234.239.61	2013-12-06 16:07:28	200	1143	2053	117	GET	/api/bbs/list/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/672.0.8 Darwin/14.0.0
+122.234.239.61	2013-12-06 16:07:01	200	1160	29089	5	GET	/resources/attach/2013/08/22/1377160798533/picFile.png		pv/1.3 CFNetwork/672.0.8 Darwin/14.0.0
+122.234.239.61	2013-12-06 16:06:47	200	1160	74835	14	GET	/resources/attach/2013/08/22/1377161009936/picFile.png		pv/1.3 CFNetwork/672.0.8 Darwin/14.0.0
+122.234.239.61	2013-12-06 16:06:19	200	1160	71142	14	GET	/resources/attach/2013/08/22/1377160886086/picFile.png		pv/1.3 CFNetwork/672.0.8 Darwin/14.0.0
+122.234.239.61	2013-12-06 16:06:18	200	1160	60133	13	GET	/resources/attach/2013/08/22/1377160636800/picFile.png		pv/1.3 CFNetwork/672.0.8 Darwin/14.0.0
+122.234.239.61	2013-12-06 16:06:18	200	1091	4507	556	GET	/api/news/list/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/672.0.8 Darwin/14.0.0
+113.200.205.85	2013-12-06 13:22:17	200	1348	90	68	POST	/api/device/?device=iPhone&version=1.3&pv_u=67c6a1e7ce56d3d6fa748ab6d9af3fd7c47		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.200.205.85	2013-12-06 13:22:16	200	1131	4507	59	GET	/api/news/list/?device=iPhone&version=1.3&pv_u=67c6a1e7ce56d3d6fa748ab6d9af3fd7c47		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.200.205.85	2013-12-06 13:22:16	200	1107	71142	2	GET	/resources/attach/2013/08/22/1377160886086/picFile.png		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.200.205.85	2013-12-06 13:22:16	200	1107	60133	3	GET	/resources/attach/2013/08/22/1377160636800/picFile.png		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+111.161.79.21	2013-12-06 13:04:17	302	1248	0	2	GET	/download/android/	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+111.161.79.21	2013-12-06 13:04:17	200	1255	2416946	22	GET	/resources/android/pv.apk	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+111.161.79.21	2013-12-06 13:03:53	404	1152	239	4	GET	/favicon.ico		Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+111.161.79.21	2013-12-06 13:03:52	200	1136	1701	4	GET	/	http://pv.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+111.161.79.21	2013-12-06 13:03:52	200	1283	7619	2	GET	/resources/theme/landina/img/pattern.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+111.161.79.21	2013-12-06 13:03:52	200	1278	661	2	GET	/resources/theme/landina/img/bg.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+111.161.79.21	2013-12-06 13:03:52	200	1291	26139	5	GET	/resources/theme/landina/img/layout2/mockup2.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+111.161.79.21	2013-12-06 13:03:52	200	1291	2774	5	GET	/resources/theme/landina/img/skins/blue/logo.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+111.161.79.21	2013-12-06 13:03:52	200	1286	2813	4	GET	/resources/theme/landina/img/bg-checker.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+111.161.79.21	2013-12-06 13:03:52	200	1280	4513	3	GET	/resources/theme/landina/img/blog.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+111.161.79.21	2013-12-06 13:03:52	200	1282	4081	3	GET	/resources/theme/landina/img/top-bg.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+111.161.79.21	2013-12-06 13:03:52	200	1291	322945	6	GET	/resources/theme/landina/img/layout2/main-c2.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+111.161.79.21	2013-12-06 13:03:52	200	1285	3283	5	GET	/resources/theme/landina/img/top-arrow.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+111.161.79.21	2013-12-06 13:03:52	200	1244	578	2	GET	/resources/theme/landina/css/skins/blue.css	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+111.161.79.21	2013-12-06 13:03:52	200	1292	41493	3	GET	/resources/theme/landina/img/layout2/app-shot.jpg	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+111.161.79.21	2013-12-06 13:03:52	200	1290	3392	2	GET	/resources/theme/landina/img/feature1-hover.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+111.161.79.21	2013-12-06 13:03:52	200	1271	390	3	GET	/resources/images/qrcode.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+111.161.79.21	2013-12-06 13:03:52	200	1284	3314	3	GET	/resources/theme/landina/img/feature1.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+111.161.79.21	2013-12-06 13:03:52	200	1284	4711	3	GET	/resources/theme/landina/img/feature3.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+111.161.79.21	2013-12-06 13:03:52	200	1274	72781	4	GET	/resources/images/indexlogo.jpg	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+111.161.79.21	2013-12-06 13:03:52	200	1284	4515	3	GET	/resources/theme/landina/img/feature2.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+111.161.79.21	2013-12-06 13:03:52	200	1290	5185	2	GET	/resources/theme/landina/img/feature3-hover.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+111.161.79.21	2013-12-06 13:03:52	200	1290	4867	2	GET	/resources/theme/landina/img/feature2-hover.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+111.161.79.21	2013-12-06 13:03:52	200	1248	1220	2	GET	/resources/theme/landina/css/styles-layout2.css	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+111.161.79.21	2013-12-06 13:03:52	200	1240	4726	3	GET	/resources/theme/landina/css/styles.css	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+114.221.74.27	2013-12-06 09:52:48	200	1285	2774	2	GET	/resources/theme/landina/img/skins/blue/logo.png	http://ceegpvapi.duapp.com/	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+114.221.74.27	2013-12-06 09:52:48	200	1274	4513	3	GET	/resources/theme/landina/img/blog.png	http://ceegpvapi.duapp.com/	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+114.221.74.27	2013-12-06 09:52:48	200	1276	4081	2	GET	/resources/theme/landina/img/top-bg.png	http://ceegpvapi.duapp.com/	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+114.221.74.27	2013-12-06 09:52:48	200	1279	3283	2	GET	/resources/theme/landina/img/top-arrow.png	http://ceegpvapi.duapp.com/	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+114.221.74.27	2013-12-06 09:52:48	200	1285	322945	4	GET	/resources/theme/landina/img/layout2/main-c2.png	http://ceegpvapi.duapp.com/	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+114.221.74.27	2013-12-06 09:52:48	200	1285	26139	2	GET	/resources/theme/landina/img/layout2/mockup2.png	http://ceegpvapi.duapp.com/	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+114.221.74.27	2013-12-06 09:52:48	200	1272	661	2	GET	/resources/theme/landina/img/bg.png	http://ceegpvapi.duapp.com/	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+114.221.74.27	2013-12-06 09:52:48	200	1280	2813	2	GET	/resources/theme/landina/img/bg-checker.png	http://ceegpvapi.duapp.com/	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+114.221.74.27	2013-12-06 09:52:48	200	1277	7619	2	GET	/resources/theme/landina/img/pattern.png	http://ceegpvapi.duapp.com/	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+114.221.74.27	2013-12-06 09:52:47	200	1278	578	2	GET	/resources/theme/landina/css/skins/blue.css	http://ceegpvapi.duapp.com/	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+114.221.74.27	2013-12-06 09:52:47	200	1215	72781	4	GET	/resources/images/indexlogo.jpg	http://ceegpvapi.duapp.com/	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+114.221.74.27	2013-12-06 09:52:47	200	1233	41493	4	GET	/resources/theme/landina/img/layout2/app-shot.jpg	http://ceegpvapi.duapp.com/	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+114.221.74.27	2013-12-06 09:52:47	200	1212	390	3	GET	/resources/images/qrcode.png	http://ceegpvapi.duapp.com/	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+114.221.74.27	2013-12-06 09:52:47	200	1231	5185	2	GET	/resources/theme/landina/img/feature3-hover.png	http://ceegpvapi.duapp.com/	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+114.221.74.27	2013-12-06 09:52:47	200	1225	4711	2	GET	/resources/theme/landina/img/feature3.png	http://ceegpvapi.duapp.com/	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+114.221.74.27	2013-12-06 09:52:47	200	1231	4867	2	GET	/resources/theme/landina/img/feature2-hover.png	http://ceegpvapi.duapp.com/	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+114.221.74.27	2013-12-06 09:52:47	200	1225	4515	2	GET	/resources/theme/landina/img/feature2.png	http://ceegpvapi.duapp.com/	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+114.221.74.27	2013-12-06 09:52:47	200	1229	1220	7	GET	/resources/theme/landina/css/styles-layout2.css	http://ceegpvapi.duapp.com/	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+114.221.74.27	2013-12-06 09:52:47	200	1231	3392	7	GET	/resources/theme/landina/img/feature1-hover.png	http://ceegpvapi.duapp.com/	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+114.221.74.27	2013-12-06 09:52:47	200	1225	3314	6	GET	/resources/theme/landina/img/feature1.png	http://ceegpvapi.duapp.com/	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+114.221.74.27	2013-12-06 09:52:47	200	1221	4726	7	GET	/resources/theme/landina/css/styles.css	http://ceegpvapi.duapp.com/	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+221.12.115.26	2013-12-06 07:53:29	200	1179	2053	36	GET	/api/bbs/list/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/548.1.4 Darwin/11.0.0
+221.12.115.26	2013-12-06 07:53:21	200	1185	45832	44	GET	/files/2013/09/13/1379062934205/picFile.png		pv/1.3 CFNetwork/548.1.4 Darwin/11.0.0
+221.12.115.26	2013-12-06 07:53:21	200	1185	45832	50	GET	/files/2013/09/13/1379062934205/picFile.png		pv/1.3 CFNetwork/548.1.4 Darwin/11.0.0
+221.12.115.26	2013-12-06 07:53:21	200	1179	2053	45	GET	/api/bbs/list/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/548.1.4 Darwin/11.0.0
+221.12.115.26	2013-12-06 07:53:08	200	1252	90	66	POST	/api/device/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/548.1.4 Darwin/11.0.0
+221.12.115.26	2013-12-06 07:53:08	200	1088	4507	36	GET	/api/news/list/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/548.1.4 Darwin/11.0.0
+221.12.115.26	2013-12-06 07:53:08	200	1104	71142	3	GET	/resources/attach/2013/08/22/1377160886086/picFile.png		pv/1.3 CFNetwork/548.1.4 Darwin/11.0.0
+114.231.144.231	2013-12-06 03:47:51	200	1189	45832	46	GET	/files/2013/09/13/1379062934205/picFile.png		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+114.231.144.231	2013-12-06 03:47:51	200	1189	45832	41	GET	/files/2013/09/13/1379062934205/picFile.png		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+114.231.144.231	2013-12-06 03:47:51	200	1183	2053	49	GET	/api/bbs/list/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+114.231.144.231	2013-12-06 03:40:52	200	1340	351	69	POST	/api/calculator/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+114.231.144.231	2013-12-06 03:40:35	200	1341	355	46	POST	/api/calculator/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+114.231.144.231	2013-12-06 03:40:02	200	1340	353	57	POST	/api/calculator/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+114.231.144.231	2013-12-06 03:39:16	200	1340	353	32	POST	/api/calculator/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+114.231.144.231	2013-12-06 03:38:59	200	1320	279	6	POST	/api/calculator/field/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+114.231.144.231	2013-12-06 03:38:57	200	1320	279	6	POST	/api/calculator/field/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+114.231.144.231	2013-12-06 03:38:56	200	1320	279	6	POST	/api/calculator/field/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+114.231.144.231	2013-12-06 03:38:55	200	1320	279	6	POST	/api/calculator/field/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+114.231.144.231	2013-12-06 03:38:54	200	1329	282	7	POST	/api/calculator/field/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+114.231.144.231	2013-12-06 03:38:46	200	1258	90	56	POST	/api/device/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+114.231.144.231	2013-12-06 03:38:46	200	1094	4507	53	GET	/api/news/list/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+114.231.144.231	2013-12-06 03:19:06	200	1341	353	33	POST	/api/calculator/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+114.231.144.231	2013-12-06 03:18:50	200	1191	45832	46	GET	/files/2013/09/13/1379062934205/picFile.png		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+114.231.144.231	2013-12-06 03:18:50	200	1184	3049	3	GET	/resources/images/default_avatar.jpg		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+114.231.144.231	2013-12-06 03:18:49	200	1184	3049	2	GET	/resources/images/default_avatar.jpg		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+114.231.144.231	2013-12-06 03:18:49	200	1185	2053	44	GET	/api/bbs/list/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+114.231.144.231	2013-12-06 03:17:35	200	1341	353	66	POST	/api/calculator/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+114.231.144.231	2013-12-06 03:17:25	200	1321	279	6	POST	/api/calculator/field/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+114.231.144.231	2013-12-06 03:17:22	200	1321	279	6	POST	/api/calculator/field/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+114.231.144.231	2013-12-06 03:17:20	200	1330	282	5	POST	/api/calculator/field/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+114.231.144.231	2013-12-06 03:17:19	200	1321	279	4	POST	/api/calculator/field/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+114.231.144.231	2013-12-06 03:17:15	200	1321	279	4	POST	/api/calculator/field/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+114.231.144.231	2013-12-06 03:17:12	200	1321	279	6	POST	/api/calculator/field/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+114.231.144.231	2013-12-06 03:17:10	200	1321	279	6	POST	/api/calculator/field/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+114.231.144.231	2013-12-06 03:17:09	200	1321	279	6	POST	/api/calculator/field/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+114.231.144.231	2013-12-06 03:17:08	200	1321	279	6	POST	/api/calculator/field/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+114.231.144.231	2013-12-06 03:17:07	200	1330	282	5	POST	/api/calculator/field/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+114.231.144.231	2013-12-06 03:17:06	200	1321	279	6	POST	/api/calculator/field/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+114.231.144.231	2013-12-06 03:17:05	200	1321	279	6	POST	/api/calculator/field/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+114.231.144.231	2013-12-06 03:17:04	200	1330	282	6	POST	/api/calculator/field/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+114.231.144.231	2013-12-06 03:17:03	200	1321	279	6	POST	/api/calculator/field/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+114.231.144.231	2013-12-06 03:16:48	200	1202	29089	3	GET	/resources/attach/2013/08/22/1377160798533/picFile.png		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+114.231.144.231	2013-12-06 03:16:44	200	1202	74835	4	GET	/resources/attach/2013/08/22/1377161009936/picFile.png		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+114.231.144.231	2013-12-06 03:16:37	200	1311	90	72	POST	/api/device/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+114.231.144.231	2013-12-06 03:16:36	200	1163	71142	3	GET	/resources/attach/2013/08/22/1377160886086/picFile.png		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+114.231.144.231	2013-12-06 03:16:36	200	1163	60133	3	GET	/resources/attach/2013/08/22/1377160636800/picFile.png		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+114.231.144.231	2013-12-06 03:16:36	200	1094	4507	46	GET	/api/news/list/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/672.0.2 Darwin/14.0.0
+183.60.215.24	2013-12-06 02:58:53	404	1254	238	6	GET	/robots.txt		Mozilla/5.0 (compatible; EasouSpider; +http://www.easou.com/search/spider.html)

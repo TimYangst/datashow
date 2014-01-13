@@ -51,7 +51,7 @@ Ext.onReady(function() {
     };
     
     window.datastore = Ext.create('Ext.data.JsonStore',{
-    	fields: ['hour', 'rate'],
+    	fields: ['hour', 'rate', 'period', 'numError'],
     	data : []
     });
     

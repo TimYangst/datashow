@@ -1,0 +1,13 @@
+101.226.169.195	2013-12-12 22:10:06	302	1294	0	4	GET	/download/ios/	http://pvapi.ceeg.cn/download/ios/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; MDDR; .NET4.0C; .NET4.0E; .NET CLR 1.1.4322; Tablet PC 2.0); 360Spider
+118.186.252.68	2013-12-12 21:47:35	200	1188	45832	1466	GET	/files/2013/09/13/1379062934205/picFile.png		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+118.186.252.68	2013-12-12 21:47:35	200	1188	45832	950	GET	/files/2013/09/13/1379062934205/picFile.png		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+118.186.252.68	2013-12-12 21:47:34	200	1181	3049	3	GET	/resources/images/default_avatar.jpg		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+118.186.252.68	2013-12-12 21:47:33	200	1181	3049	18	GET	/resources/images/default_avatar.jpg		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+118.186.252.68	2013-12-12 21:47:33	200	1182	2053	61	GET	/api/bbs/list/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+118.186.252.68	2013-12-12 21:47:26	200	1199	29089	9	GET	/resources/attach/2013/08/22/1377160798533/picFile.png		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+118.186.252.68	2013-12-12 21:47:24	200	1199	74835	14	GET	/resources/attach/2013/08/22/1377161009936/picFile.png		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+118.186.252.68	2013-12-12 21:47:14	200	1256	90	775	POST	/api/device/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+118.186.252.68	2013-12-12 21:47:14	200	1199	71142	10	GET	/resources/attach/2013/08/22/1377160886086/picFile.png		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+118.186.252.68	2013-12-12 21:47:14	200	1199	60133	19	GET	/resources/attach/2013/08/22/1377160636800/picFile.png		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+118.186.252.68	2013-12-12 21:47:14	200	1092	4507	758	GET	/api/news/list/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+101.226.169.225	2013-12-12 09:55:55	404	1289	238	6	GET	/robots.txt	http://pvapi.ceeg.cn/robots.txt	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; MDDR; .NET4.0C; .NET4.0E; .NET CLR 1.1.4322; Tablet PC 2.0); 360Spider

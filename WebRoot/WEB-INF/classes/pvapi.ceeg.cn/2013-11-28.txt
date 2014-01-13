@@ -1,0 +1,117 @@
+118.122.85.200	2013-11-28 23:41:59	302	1972	0	3	GET	/download/android/	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.200	2013-11-28 23:41:59	200	1979	2416946	21	GET	/resources/android/pv.apk	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+61.157.126.90	2013-11-28 23:41:03	200	1977	2416946	23	GET	/resources/android/pv.apk	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.136	2013-11-28 23:35:26	302	1972	0	3	GET	/download/android/	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.136	2013-11-28 23:35:26	200	1979	2416946	21	GET	/resources/android/pv.apk	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.136	2013-11-28 23:35:21	304	2087	0	2	GET	/resources/theme/landina/img/pattern.png	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.200	2013-11-28 23:35:21	304	2090	0	2	GET	/resources/theme/landina/img/bg-checker.png	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.200	2013-11-28 23:35:21	304	2095	0	9	GET	/resources/theme/landina/img/layout2/main-c2.png	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.200	2013-11-28 23:35:21	304	2089	0	8	GET	/resources/theme/landina/img/top-arrow.png	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.136	2013-11-28 23:35:21	304	2095	0	7	GET	/resources/theme/landina/img/skins/blue/logo.png	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.136	2013-11-28 23:35:21	304	2082	0	8	GET	/resources/theme/landina/img/bg.png	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.200	2013-11-28 23:35:21	304	2086	0	4	GET	/resources/theme/landina/img/top-bg.png	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.200	2013-11-28 23:35:21	304	2084	0	3	GET	/resources/theme/landina/img/blog.png	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.200	2013-11-28 23:35:21	304	2095	0	4	GET	/resources/theme/landina/img/layout2/mockup2.png	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.200	2013-11-28 23:35:20	200	2233	1701	5	GET	/	http://pv.ceeg.cn/?page_id=185	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.200	2013-11-28 23:35:20	304	2090	0	2	GET	/resources/theme/landina/css/skins/blue.css	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.136	2013-11-28 23:35:20	304	2088	0	2	GET	/resources/theme/landina/img/feature3.png	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.200	2013-11-28 23:35:20	304	2096	0	2	GET	/resources/theme/landina/img/layout2/app-shot.jpg	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.200	2013-11-28 23:35:20	304	2075	0	2	GET	/resources/images/qrcode.png	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.200	2013-11-28 23:35:20	304	2094	0	2	GET	/resources/theme/landina/img/feature3-hover.png	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.200	2013-11-28 23:35:20	304	2094	0	3	GET	/resources/theme/landina/img/feature2-hover.png	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.200	2013-11-28 23:35:20	304	2078	0	4	GET	/resources/images/indexlogo.jpg	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.136	2013-11-28 23:35:20	304	2088	0	3	GET	/resources/theme/landina/img/feature2.png	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.200	2013-11-28 23:35:20	304	2094	0	4	GET	/resources/theme/landina/img/feature1-hover.png	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.136	2013-11-28 23:35:20	304	2088	0	3	GET	/resources/theme/landina/img/feature1.png	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.200	2013-11-28 23:35:20	304	2094	0	2	GET	/resources/theme/landina/css/styles-layout2.css	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.200	2013-11-28 23:35:20	304	2086	0	2	GET	/resources/theme/landina/css/styles.css	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.136	2013-11-28 23:31:00	302	1972	0	3	GET	/download/android/	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.136	2013-11-28 23:31:00	200	1979	2416946	23	GET	/resources/android/pv.apk	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.200	2013-11-28 23:30:57	200	1979	2416946	25	GET	/resources/android/pv.apk	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.200	2013-11-28 23:30:57	302	1972	0	3	GET	/download/android/	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.200	2013-11-28 23:30:48	200	1994	7619	2	GET	/resources/theme/landina/img/pattern.png	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.200	2013-11-28 23:30:48	200	1997	2813	2	GET	/resources/theme/landina/img/bg-checker.png	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.136	2013-11-28 23:30:48	200	2002	322945	5	GET	/resources/theme/landina/img/layout2/main-c2.png	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.136	2013-11-28 23:30:48	200	1996	3283	3	GET	/resources/theme/landina/img/top-arrow.png	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.136	2013-11-28 23:30:48	200	1991	4513	2	GET	/resources/theme/landina/img/blog.png	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.136	2013-11-28 23:30:48	200	2002	2774	2	GET	/resources/theme/landina/img/skins/blue/logo.png	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.200	2013-11-28 23:30:48	200	1993	4081	2	GET	/resources/theme/landina/img/top-bg.png	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.136	2013-11-28 23:30:48	200	2002	26139	4	GET	/resources/theme/landina/img/layout2/mockup2.png	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.136	2013-11-28 23:30:48	200	1989	661	3	GET	/resources/theme/landina/img/bg.png	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.136	2013-11-28 23:30:48	200	1997	578	3	GET	/resources/theme/landina/css/skins/blue.css	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.136	2013-11-28 23:30:47	200	2001	5185	3	GET	/resources/theme/landina/img/feature3-hover.png	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.136	2013-11-28 23:30:47	200	1982	390	3	GET	/resources/images/qrcode.png	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.200	2013-11-28 23:30:47	200	2003	41493	3	GET	/resources/theme/landina/img/layout2/app-shot.jpg	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.136	2013-11-28 23:30:47	200	1985	72781	3	GET	/resources/images/indexlogo.jpg	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.136	2013-11-28 23:30:47	200	1995	4515	2	GET	/resources/theme/landina/img/feature2.png	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.136	2013-11-28 23:30:46	200	1995	3314	2	GET	/resources/theme/landina/img/feature1.png	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.136	2013-11-28 23:30:46	200	2001	3392	5	GET	/resources/theme/landina/img/feature1-hover.png	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.136	2013-11-28 23:30:46	200	2001	4867	4	GET	/resources/theme/landina/img/feature2-hover.png	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.200	2013-11-28 23:30:46	200	1995	4711	2	GET	/resources/theme/landina/img/feature3.png	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.136	2013-11-28 23:30:46	200	2001	1220	2	GET	/resources/theme/landina/css/styles-layout2.css	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.200	2013-11-28 23:30:46	200	1993	4726	4	GET	/resources/theme/landina/css/styles.css	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+118.122.85.200	2013-11-28 23:30:46	200	2137	1701	5	GET	/	http://pv.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+117.136.8.66	2013-11-28 22:40:08	304	1250	0	2	GET	/resources/attach/2013/08/22/1377160798533/picFile.png		pv/1.3 CFNetwork/672.0.8 Darwin/14.0.0
+117.136.8.66	2013-11-28 22:40:01	304	1250	0	3	GET	/resources/attach/2013/08/22/1377161009936/picFile.png		pv/1.3 CFNetwork/672.0.8 Darwin/14.0.0
+117.136.8.66	2013-11-28 22:39:48	200	1146	45832	48	GET	/files/2013/09/13/1379062934205/picFile.png		pv/1.3 CFNetwork/672.0.8 Darwin/14.0.0
+117.136.8.66	2013-11-28 22:39:47	200	1146	45832	108	GET	/files/2013/09/13/1379062934205/picFile.png		pv/1.3 CFNetwork/672.0.8 Darwin/14.0.0
+117.136.8.66	2013-11-28 22:39:42	200	1146	45832	102	GET	/files/2013/09/13/1379062934205/picFile.png		pv/1.3 CFNetwork/672.0.8 Darwin/14.0.0
+117.136.8.66	2013-11-28 22:39:42	200	1140	2053	57	GET	/api/bbs/list/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/672.0.8 Darwin/14.0.0
+117.136.8.66	2013-11-28 22:39:42	304	1232	0	2	GET	/resources/images/default_avatar.jpg		pv/1.3 CFNetwork/672.0.8 Darwin/14.0.0
+117.136.8.66	2013-11-28 22:39:42	200	1146	45832	115	GET	/files/2013/09/13/1379062934205/picFile.png		pv/1.3 CFNetwork/672.0.8 Darwin/14.0.0
+117.136.8.66	2013-11-28 22:39:42	304	1232	0	3	GET	/resources/images/default_avatar.jpg		pv/1.3 CFNetwork/672.0.8 Darwin/14.0.0
+117.136.8.66	2013-11-28 22:39:35	304	1197	0	3	GET	/resources/attach/2013/08/22/1377160636800/picFile.png		pv/1.3 CFNetwork/672.0.8 Darwin/14.0.0
+117.136.8.66	2013-11-28 22:39:35	304	1197	0	2	GET	/resources/attach/2013/08/22/1377160886086/picFile.png		pv/1.3 CFNetwork/672.0.8 Darwin/14.0.0
+117.136.8.66	2013-11-28 22:39:35	200	1088	4503	38	GET	/api/news/list/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/672.0.8 Darwin/14.0.0
+220.181.132.193	2013-11-28 20:10:31	200	1220	1701	3	GET	/		Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.11 (KHTML, like Gecko) DumpRenderTree/0.0.0.0 Safari/536.11
+220.181.132.193	2013-11-28 20:10:31	200	1341	578	2	GET	/resources/theme/landina/css/skins/blue.css	http://pvapi.ceeg.cn/	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.11 (KHTML, like Gecko) DumpRenderTree/0.0.0.0 Safari/536.11
+220.181.132.193	2013-11-28 20:10:31	200	1345	1220	2	GET	/resources/theme/landina/css/styles-layout2.css	http://pvapi.ceeg.cn/	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.11 (KHTML, like Gecko) DumpRenderTree/0.0.0.0 Safari/536.11
+220.181.132.193	2013-11-28 20:10:31	200	1337	4726	3	GET	/resources/theme/landina/css/styles.css	http://pvapi.ceeg.cn/	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.11 (KHTML, like Gecko) DumpRenderTree/0.0.0.0 Safari/536.11
+220.181.132.217	2013-11-28 20:09:35	200	1171	5386	5	GET	/	http://pvapi.ceeg.cn/	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0)
+220.181.108.56	2013-11-28 18:40:00	200	1070	5386	5	GET	/		Mozilla/5.0 (Linux;u;Android 2.3.7;zh-cn;HTC Desire Build) AppleWebKit/533.1 (KHTML,like Gecko) Version/4.0 Mobile Safari/533.1
+180.173.5.121	2013-11-28 15:36:39	200	1388	359	121	POST	/api/calculator/?device=iPhone&version=1.3&pv_u=e369853df766fa44e1ed0ff613f563bdc34		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+180.173.5.121	2013-11-28 15:36:26	200	1365	282	32	POST	/api/calculator/field/?device=iPhone&version=1.3&pv_u=e369853df766fa44e1ed0ff613f563bdc34		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+180.173.5.121	2013-11-28 15:36:22	200	1356	279	35	POST	/api/calculator/field/?device=iPhone&version=1.3&pv_u=e369853df766fa44e1ed0ff613f563bdc34		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+180.173.5.121	2013-11-28 15:36:13	304	1290	0	2	GET	/resources/attach/2013/08/22/1377160798533/picFile.png		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+180.173.5.121	2013-11-28 15:35:36	304	1291	0	3	GET	/resources/attach/2013/08/22/1377161009936/picFile.png		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+180.173.5.121	2013-11-28 15:35:32	200	1386	90	48	POST	/api/device/?device=iPhone&version=1.3&pv_u=e369853df766fa44e1ed0ff613f563bdc34		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+180.173.5.121	2013-11-28 15:35:29	200	1159	71142	3	GET	/resources/attach/2013/08/22/1377160886086/picFile.png		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+180.173.5.121	2013-11-28 15:35:29	200	1130	4503	84	GET	/api/news/list/?device=iPhone&version=1.3&pv_u=e369853df766fa44e1ed0ff613f563bdc34		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+180.173.5.121	2013-11-28 15:35:29	200	1106	60133	4	GET	/resources/attach/2013/08/22/1377160636800/picFile.png		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+27.184.76.30	2013-11-28 14:06:29	200	1218	1189	77	GET	/api/posts/42/?device=iPhone&version=1.3&pv_u=f7177163c833dff4b38fc8d2872f1ec6c44		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+27.184.76.30	2013-11-28 14:05:53	200	1184	45832	625	GET	/files/2013/09/13/1379062934205/picFile.png		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+27.184.76.30	2013-11-28 14:05:53	200	1177	3049	3	GET	/resources/images/default_avatar.jpg		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+27.184.76.30	2013-11-28 14:05:52	200	1177	3049	3	GET	/resources/images/default_avatar.jpg		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+27.184.76.30	2013-11-28 14:05:51	200	1218	2053	59	GET	/api/bbs/list/?device=iPhone&version=1.3&pv_u=f7177163c833dff4b38fc8d2872f1ec6c44		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+27.184.76.30	2013-11-28 14:05:41	200	2740	562	71	POST	/api/login/social/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+27.184.76.30	2013-11-28 14:04:50	200	1195	29089	3	GET	/resources/attach/2013/08/22/1377160798533/picFile.png		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+27.184.76.30	2013-11-28 14:04:33	200	1195	74835	4	GET	/resources/attach/2013/08/22/1377161009936/picFile.png		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+27.184.76.30	2013-11-28 14:04:28	200	1195	71142	4	GET	/resources/attach/2013/08/22/1377160886086/picFile.png		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+27.184.76.30	2013-11-28 14:04:27	200	1195	60133	4	GET	/resources/attach/2013/08/22/1377160636800/picFile.png		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+27.184.76.30	2013-11-28 14:04:27	200	1251	90	112	POST	/api/device/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+27.184.76.30	2013-11-28 14:04:27	200	1087	4503	53	GET	/api/news/list/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.74.72.112	2013-11-28 00:07:44	200	1179	2053	50	GET	/api/bbs/list/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.74.72.112	2013-11-28 00:07:41	200	1179	1195	60	GET	/api/posts/77/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.74.72.112	2013-11-28 00:07:39	200	1179	2053	43	GET	/api/bbs/list/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.74.72.112	2013-11-28 00:07:32	200	1179	1195	357	GET	/api/posts/77/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.74.72.112	2013-11-28 00:07:23	200	1179	2053	44	GET	/api/bbs/list/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.74.72.112	2013-11-28 00:07:21	200	1179	436	51	GET	/api/posts/80/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.74.72.112	2013-11-28 00:07:11	200	1185	45832	54	GET	/files/2013/09/13/1379062934205/picFile.png		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.74.72.112	2013-11-28 00:07:11	200	1185	45832	54	GET	/files/2013/09/13/1379062934205/picFile.png		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.74.72.112	2013-11-28 00:07:10	200	1273	3049	2	GET	/resources/images/default_avatar.jpg		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.74.72.112	2013-11-28 00:07:10	200	1179	2053	354	GET	/api/bbs/list/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.74.72.112	2013-11-28 00:07:10	200	1185	45801	110	GET	/files/2013/09/13/1379062934205/picFile.png		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.74.72.112	2013-11-28 00:07:10	200	1185	45832	150	GET	/files/2013/09/13/1379062934205/picFile.png		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.74.72.112	2013-11-28 00:07:10	200	1273	3049	2	GET	/resources/images/default_avatar.jpg		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.74.72.112	2013-11-28 00:06:49	200	1341	368	96	POST	/api/calculator/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.74.72.112	2013-11-28 00:06:03	200	1315	279	6	POST	/api/calculator/field/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.74.72.112	2013-11-28 00:06:02	200	1324	282	5	POST	/api/calculator/field/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.74.72.112	2013-11-28 00:06:01	200	1324	282	12	POST	/api/calculator/field/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.74.72.112	2013-11-28 00:05:33	200	1292	29089	3	GET	/resources/attach/2013/08/22/1377160798533/picFile.png		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.74.72.112	2013-11-28 00:05:32	200	1292	74835	2	GET	/resources/attach/2013/08/22/1377161009936/picFile.png		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.74.72.112	2013-11-28 00:05:31	200	1292	71142	3	GET	/resources/attach/2013/08/22/1377160886086/picFile.png		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.74.72.112	2013-11-28 00:05:31	200	1292	60133	3	GET	/resources/attach/2013/08/22/1377160636800/picFile.png		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.74.72.112	2013-11-28 00:05:31	200	1254	90	74	POST	/api/device/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.74.72.112	2013-11-28 00:05:31	200	1090	4503	66	GET	/api/news/list/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.74.72.112	2013-11-28 00:05:31	200	1106	71142	2	GET	/resources/attach/2013/08/22/1377160886086/picFile.png		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+113.74.72.112	2013-11-28 00:05:31	200	1106	60133	4	GET	/resources/attach/2013/08/22/1377160636800/picFile.png		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0

@@ -1,0 +1,60 @@
+182.118.25.215	2013-11-18 21:24:59	404	1143	238	7	GET	/robots.txt	http://pvapi.ceeg.cn/robots.txt	Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; )  Firefox/1.5.0.11; 360Spider
+211.141.86.13	2013-11-18 21:17:15	304	1289	0	2	GET	/resources/attach/2013/08/22/1377160636800/picFile.png		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+211.141.86.13	2013-11-18 21:17:12	200	1253	90	37	POST	/api/device/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+211.141.86.13	2013-11-18 21:17:12	200	1105	71142	3	GET	/resources/attach/2013/08/22/1377160886086/picFile.png		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+211.141.86.13	2013-11-18 21:17:12	200	1105	60133	5	GET	/resources/attach/2013/08/22/1377160636800/picFile.png		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+211.141.86.13	2013-11-18 21:17:12	200	1089	4503	46	GET	/api/news/list/?device=iPhone&version=1.3&		pv/1.3 CFNetwork/609.1.4 Darwin/13.0.0
+117.89.154.102	2013-11-18 20:40:39	302	1339	0	3	GET	/download/ios/	http://pvapi.ceeg.cn/	Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a MicroMessenger/5.0.3
+113.142.9.34	2013-11-18 20:06:06	200	1087	4096	2	GET	/resources/theme/landina/css/styles-layout2.css		Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Storm
+113.142.9.34	2013-11-18 20:06:06	200	1079	22959	2	GET	/resources/theme/landina/css/styles.css		Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Storm
+113.142.9.34	2013-11-18 20:06:06	200	1041	5386	5	GET	/		Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Storm
+117.89.154.102	2013-11-18 19:57:54	302	1340	0	3	GET	/download/ios/	http://pvapi.ceeg.cn/	Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a MicroMessenger/5.0.3
+117.89.154.102	2013-11-18 19:57:37	302	1340	0	2	GET	/download/ios/	http://pvapi.ceeg.cn/	Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a MicroMessenger/5.0.3
+117.89.154.102	2013-11-18 19:57:29	302	1340	0	2	GET	/download/ios/	http://pvapi.ceeg.cn/	Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a MicroMessenger/5.0.3
+117.89.154.102	2013-11-18 19:57:24	200	1314	322945	6	GET	/resources/theme/landina/img/layout2/main-c2.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a MicroMessenger/5.0.3
+117.89.154.102	2013-11-18 19:57:24	200	1314	26139	2	GET	/resources/theme/landina/img/layout2/mockup2.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a MicroMessenger/5.0.3
+117.89.154.102	2013-11-18 19:57:24	200	1308	3283	2	GET	/resources/theme/landina/img/top-arrow.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a MicroMessenger/5.0.3
+117.89.154.102	2013-11-18 19:57:24	200	1306	7619	2	GET	/resources/theme/landina/img/pattern.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a MicroMessenger/5.0.3
+117.89.154.102	2013-11-18 19:57:24	200	1309	2813	2	GET	/resources/theme/landina/img/bg-checker.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a MicroMessenger/5.0.3
+117.89.154.102	2013-11-18 19:57:24	200	1294	390	1	GET	/resources/images/qrcode.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a MicroMessenger/5.0.3
+117.89.154.102	2013-11-18 19:57:24	200	1301	661	2	GET	/resources/theme/landina/img/bg.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a MicroMessenger/5.0.3
+117.89.154.102	2013-11-18 19:57:24	200	1315	41493	2	GET	/resources/theme/landina/img/layout2/app-shot.jpg	http://pvapi.ceeg.cn/	Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a MicroMessenger/5.0.3
+117.89.154.102	2013-11-18 19:57:24	200	1303	4513	1	GET	/resources/theme/landina/img/blog.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a MicroMessenger/5.0.3
+117.89.154.102	2013-11-18 19:57:24	200	1297	72781	2	GET	/resources/images/indexlogo.jpg	http://pvapi.ceeg.cn/	Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a MicroMessenger/5.0.3
+117.89.154.102	2013-11-18 19:57:24	200	1314	2774	2	GET	/resources/theme/landina/img/skins/blue/logo.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a MicroMessenger/5.0.3
+117.89.154.102	2013-11-18 19:57:24	200	1305	4081	2	GET	/resources/theme/landina/img/top-bg.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a MicroMessenger/5.0.3
+117.89.154.102	2013-11-18 19:57:24	200	1313	4867	1	GET	/resources/theme/landina/img/feature2-hover.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a MicroMessenger/5.0.3
+117.89.154.102	2013-11-18 19:57:24	200	1307	4711	1	GET	/resources/theme/landina/img/feature3.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a MicroMessenger/5.0.3
+117.89.154.102	2013-11-18 19:57:24	200	1307	4515	3	GET	/resources/theme/landina/img/feature2.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a MicroMessenger/5.0.3
+117.89.154.102	2013-11-18 19:57:24	200	1313	5185	2	GET	/resources/theme/landina/img/feature3-hover.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a MicroMessenger/5.0.3
+117.89.154.102	2013-11-18 19:57:24	200	1313	3392	1	GET	/resources/theme/landina/img/feature1-hover.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a MicroMessenger/5.0.3
+117.89.154.102	2013-11-18 19:57:24	200	1307	3314	2	GET	/resources/theme/landina/img/feature1.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a MicroMessenger/5.0.3
+117.89.154.102	2013-11-18 19:57:24	200	1324	578	2	GET	/resources/theme/landina/css/skins/blue.css	http://pvapi.ceeg.cn/	Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a MicroMessenger/5.0.3
+117.89.154.102	2013-11-18 19:57:24	200	1328	1220	3	GET	/resources/theme/landina/css/styles-layout2.css	http://pvapi.ceeg.cn/	Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a MicroMessenger/5.0.3
+117.89.154.102	2013-11-18 19:57:24	200	1320	4726	3	GET	/resources/theme/landina/css/styles.css	http://pvapi.ceeg.cn/	Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a MicroMessenger/5.0.3
+117.89.154.102	2013-11-18 19:57:24	200	1234	1701	3	GET	/	http://pv.ceeg.cn/	Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B554a MicroMessenger/5.0.3
+114.221.74.22	2013-11-18 16:58:47	200	1393	1701	3	GET	/	http://pv.ceeg.cn/?page_id=111	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+114.221.74.22	2013-11-18 16:57:58	404	976	300	7	GET	/favicon.ico		
+114.221.74.22	2013-11-18 16:57:58	200	1243	322945	7	GET	/resources/theme/landina/img/layout2/main-c2.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+114.221.74.22	2013-11-18 16:57:58	200	1230	661	3	GET	/resources/theme/landina/img/bg.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+114.221.74.22	2013-11-18 16:57:58	200	1235	7619	4	GET	/resources/theme/landina/img/pattern.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+114.221.74.22	2013-11-18 16:57:58	200	1243	2774	3	GET	/resources/theme/landina/img/skins/blue/logo.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+114.221.74.22	2013-11-18 16:57:58	200	1234	4081	4	GET	/resources/theme/landina/img/top-bg.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+114.221.74.22	2013-11-18 16:57:58	200	1243	26139	4	GET	/resources/theme/landina/img/layout2/mockup2.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+114.221.74.22	2013-11-18 16:57:58	200	1232	4513	3	GET	/resources/theme/landina/img/blog.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+114.221.74.22	2013-11-18 16:57:58	200	1237	3283	2	GET	/resources/theme/landina/img/top-arrow.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+114.221.74.22	2013-11-18 16:57:58	200	1238	2813	2	GET	/resources/theme/landina/img/bg-checker.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+114.221.74.22	2013-11-18 16:57:58	200	1238	578	2	GET	/resources/theme/landina/css/skins/blue.css	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+114.221.74.22	2013-11-18 16:57:58	200	1226	72781	3	GET	/resources/images/indexlogo.jpg	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+114.221.74.22	2013-11-18 16:57:58	200	1236	4711	2	GET	/resources/theme/landina/img/feature3.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+114.221.74.22	2013-11-18 16:57:58	200	1236	4515	2	GET	/resources/theme/landina/img/feature2.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+114.221.74.22	2013-11-18 16:57:58	200	1242	5185	2	GET	/resources/theme/landina/img/feature3-hover.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+114.221.74.22	2013-11-18 16:57:58	200	1244	41493	4	GET	/resources/theme/landina/img/layout2/app-shot.jpg	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+114.221.74.22	2013-11-18 16:57:58	200	1242	3392	4	GET	/resources/theme/landina/img/feature1-hover.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+114.221.74.22	2013-11-18 16:57:58	200	1242	4867	4	GET	/resources/theme/landina/img/feature2-hover.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+114.221.74.22	2013-11-18 16:57:58	200	1223	390	3	GET	/resources/images/qrcode.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+114.221.74.22	2013-11-18 16:57:58	200	1242	1220	3	GET	/resources/theme/landina/css/styles-layout2.css	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+114.221.74.22	2013-11-18 16:57:58	200	1236	3314	2	GET	/resources/theme/landina/img/feature1.png	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+114.221.74.22	2013-11-18 16:57:58	200	1234	4726	4	GET	/resources/theme/landina/css/styles.css	http://pvapi.ceeg.cn/	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+114.221.74.22	2013-11-18 16:57:58	200	1301	1701	6	GET	/	http://pv.ceeg.cn/?page_id=39	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+119.78.240.119	2013-11-18 00:16:01	404	1072	300	7	GET	/favicon.ico		Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; 360space)

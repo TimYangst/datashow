@@ -3,6 +3,7 @@
     <wb-module deploy-name="datashow">
         <wb-resource deploy-path="/" source-path="/WebRoot"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/data"/>
         <property name="context-root" value="/datashow"/>
         <property name="java-output-path" value="/datashow/WebRoot/WEB-INF/classes"/>
     </wb-module>

@@ -19,6 +19,10 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+
+// droped 这个servlet 不再被使用
+
+
 @WebServlet(urlPatterns = {"/service"})
 public class ServiceDataAction  extends HttpServlet {
 	

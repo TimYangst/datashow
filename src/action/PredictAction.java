@@ -111,7 +111,7 @@ public class PredictAction extends HttpServlet {
 		
 		PrintWriter out = response.getWriter();
 		String appname = request.getParameter("uname");
-		if  (appname == null || appname.length() == 0 ) appname = "www.aappcc.com";
+		if  (appname == null || appname.length() == 0 ) appname = "unknown";
 		String reqinfo; 
 		int [] maxrate = new int[1];
 		int [] minrate = new int[1];	//最大、最小请求率，还原归一化的rate
@@ -123,8 +123,8 @@ public class PredictAction extends HttpServlet {
 																											//此处rate为归一化后的，需还原
 			interval = maxrate[0] - minrate[0];																
 		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			out.println(e.getMessage());
+			//out.println(e.getMessage());
+			out.print("[]");
 			out.flush();
 			out.close();
 			return;

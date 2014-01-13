@@ -15,36 +15,34 @@ Ext.onReady(function() {
 
     var chart1 = Ext.create('Ext.chart.Chart',{
             animate: false,
-            store: store1,
+            store: datastore,
             insetPadding: 30,
             axes: [{
                 type: 'Numeric',
                 minimum: 0,
                 position: 'left',
-                fields: ['data1'],
+                fields: ['rate'],
                 title: false,
                 grid: true,
                 label: {
-                    renderer: Ext.util.Format.numberRenderer('0,0'),
+                   
                     font: '10px Arial'
                 }
             }, {
                 type: 'Category',
                 position: 'bottom',
-                fields: ['name'],
+                fields: ['hour'],
                 title: false,
                 label: {
-                    font: '11px Arial',
-                    renderer: function(name) {
-                        return name.substr(0, 3) + ' 07';
-                    }
+                    font: '11px Arial'
+                    
                 }
             }],
             series: [{
                 type: 'line',
                 axis: 'left',
-                xField: 'name',
-                yField: 'data1',
+                xField: 'hour',
+                yField: 'rate',
                 listeners: {
                   itemmouseup: function(item) {
                       Ext.example.msg('Item Selected', item.value[1] + ' visits on ' + Ext.Date.monthNames[item.value[0]]);
@@ -55,8 +53,8 @@ Ext.onReady(function() {
                     width: 80,
                     height: 40,
                     renderer: function(storeItem, item) {
-                        this.setTitle(storeItem.get('name'));
-                        this.update(storeItem.get('data1'));
+                        this.setTitle('time : ' + storeItem.get('hour'));
+                        this.update(storeItem.get('rate'));
                     }
                 },
                 style: {
@@ -74,191 +72,78 @@ Ext.onReady(function() {
                 }
             }]
         });
- 
-
+    
+    var combostore = Ext.create('Ext.data.JsonStore', {
+    	
+    	fields : ['name','value'],
+    	proxy : {
+    		type : 'ajax',
+    		url : 'combo'
+    	}
+    
+    	
+    });
+   //combostore.load();
+    
+    var combp =  Ext.create('Ext.form.ComboBox', {
+    	store : combostore,
+    	displayField: 'name',
+        valueField: 'value',
+        listeners: {
+        	'select' : function(){
+        		
+        		 Ext.Ajax.request({
+        		    	url : 'service',
+        		    	params : {
+        		    		service : combp.getValue() 
+        		    	},
+        		    	success : function(response){
+        		    		var text =  response.responseText;
+        		    		
+        		    		window.datastore =  Ext.create('Ext.data.JsonStore',{
+        		    	    	fields: ['hour', 'rate'],
+        		    	    	data :Ext.JSON.decode(text)
+        		    	    });
+        		    		
+        		    		chart1.store =  window.datastore;
+        		    		chart1.redraw();
+        		    	    
+        		    	}
+        		    });
+        	}
+        	
+        }
+       
+    });
+    
     var panel1 = Ext.create('widget.panel', {
-        width: 600,
-        height: 300,
-        title: 'ExtJS.com Visits Trends, 2007/2008 (No styling)',
+        width: 1020,
+        height: 800,
+        title: 'Service Prediction',
         renderTo: Ext.getBody(),
-        layout: 'fit',
+        layout: 'border',
         tbar: [{
             text: 'Save Chart',
             handler: function(){ downloadChart(chart1); }
-        }],
-        items: chart1
+        },combp ],
+        items:  chart1 
     });
     
-    var chart2 = Ext.create('Ext.chart.Chart',{
-            animate: false,
-            store: store1,
-            insetPadding: 30,
-            axes: [{
-                type: 'Numeric',
-                minimum: 0,
-                position: 'left',
-                fields: ['data1'],
-                title: false,
-                grid: true,
-                label: {
-                    renderer: Ext.util.Format.numberRenderer('0,0'),
-                    font: '10px Arial'
-                }
-            }, {
-                type: 'Category',
-                position: 'bottom',
-                fields: ['name'],
-                title: false,
-                label: {
-                    font: '11px Arial',
-                    renderer: function(name) {
-                        return name.substr(0, 3);
-                    }
-                }
-            }],
-            series: [{
-                type: 'line',
-                axis: 'left',
-                xField: 'name',
-                yField: 'data1',
-                tips: {
-                    trackMouse: true,
-                    width: 110,
-                    height: 25,
-                    renderer: function(storeItem, item) {
-                        this.setTitle(storeItem.get('data1') + ' visits in ' + storeItem.get('name').substr(0, 3));
-                    }
-                },
-                style: {
-                    fill: '#38B8BF',
-                    stroke: '#38B8BF',
-                    'stroke-width': 3
-                },
-                markerConfig: {
-                    type: 'circle',
-                    size: 4,
-                    radius: 4,
-                    'stroke-width': 0,
-                    fill: '#38B8BF',
-                    stroke: '#38B8BF'
-                }
-            }]
-        });
- 
-
-    var panel2 = Ext.create('widget.panel', {
-        width: 600,
-        height: 300,
-        title: 'ExtJS.com Visits Trends, 2007/2008 (Simple styling)',
-        renderTo: Ext.getBody(),
-        layout: 'fit',
-        tbar: [{
-            text: 'Save Chart',
-            handler: function(){ downloadChart(chart2); }
-        }],
-        items: chart2
-    });
     
-    var chart3 = Ext.create('Ext.chart.Chart', {
-            animate: false,
-            store: store1,
-            insetPadding: 30,
-            gradients: [{
-              angle: 90,
-              id: 'bar-gradient',
-              stops: {
-                  0: {
-                      color: '#99BBE8'
-                  },
-                  70: {
-                      color: '#77AECE'
-                  },
-                  100: {
-                      color: '#77AECE'
-                  }
-              }
-            }],
-            axes: [{
-                type: 'Numeric',
-                minimum: 0,
-                maximum: 100,
-                position: 'left',
-                fields: ['data1'],
-                title: false,
-                grid: true,
-                label: {
-                    renderer: Ext.util.Format.numberRenderer('0,0'),
-                    font: '10px Arial'
-                }
-            }, {
-                type: 'Category',
-                position: 'bottom',
-                fields: ['name'],
-                title: false,
-                grid: true,
-                label: {
-                    font: '11px Arial',
-                    renderer: function(name) {
-                        return name.substr(0, 3);
-                    }
-                }
-            }],
-            series: [{
-                type: 'column',
-                axis: 'left',
-                xField: 'name',
-                yField: 'data1',
-                style: {
-                    fill: 'url(#bar-gradient)',
-                    'stroke-width': 3
-                },
-                markerConfig: {
-                    type: 'circle',
-                    size: 4,
-                    radius: 4,
-                    'stroke-width': 0,
-                    fill: '#38B8BF',
-                    stroke: '#38B8BF'
-                }
-            }, {
-                type: 'line',
-                axis: 'left',
-                xField: 'name',
-                yField: 'data2',
-                tips: {
-                    trackMouse: true,
-                    width: 110,
-                    height: 25,
-                    renderer: function(storeItem, item) {
-                        this.setTitle(storeItem.get('data2') + ' visits in ' + storeItem.get('name').substr(0, 3));
-                    }
-                },
-                style: {
-                    fill: '#18428E',
-                    stroke: '#18428E',
-                    'stroke-width': 3
-                },
-                markerConfig: {
-                    type: 'circle',
-                    size: 4,
-                    radius: 4,
-                    'stroke-width': 0,
-                    fill: '#18428E',
-                    stroke: '#18428E'
-                }
-            }]
-        }); 
-
-    var panel3 = Ext.create('widget.panel', {
-        width: 600,
-        height: 300,
-        title: 'ExtJS.com Visits Trends, 2007/2008 (Full styling)',
-        renderTo: Ext.getBody(),
-        layout: 'fit',
-        tbar: [{
-            text: 'Save Chart',
-            handler: function(){ downloadChart(chart3); }
-        }],
-        items: chart3
+    Ext.Ajax.request({
+    	url : 'service',
+    	success : function(response){
+    		var text =  response.responseText;
+    		
+    		window.datastore =  Ext.create('Ext.data.JsonStore',{
+    	    	fields: ['hour', 'rate'],
+    	    	data : Ext.JSON.decode(text)
+    	    });
+    		
+    		chart1.store =  window.datastore;
+    		chart1.redraw();
+    	    
+    	}
     });
+  
 });

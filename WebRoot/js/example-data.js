@@ -49,7 +49,15 @@ Ext.onReady(function() {
         }
         return data;
     };
-
+    
+    window.datastore = Ext.create('Ext.data.JsonStore',{
+    	fields: ['hour', 'rate'],
+    	data : []
+    });
+    
+   
+   
+   
     window.store1 = Ext.create('Ext.data.JsonStore', {
         fields: ['name', 'data1', 'data2', 'data3', 'data4', 'data5', 'data6', 'data7', 'data9', 'data9'],
         data: generateData()

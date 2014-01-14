@@ -57,7 +57,7 @@ public class reqRatesCounter {
 					hourinfo[hour].hourRate++;
 					if (Integer.parseInt(strs[2])!=200){
 						hourinfo[hour].errorNum++;
-						errorres += strs[2] + "," + strs[6] + " " + strs[7] + ";";
+						errorres += strs[2] + "," + strs[6] + " " + strs[7] + "," + strs[1] +";";
 					}
 					hourinfo[hour].avgPeriod+=Integer.parseInt(strs[5]);
 					i++;

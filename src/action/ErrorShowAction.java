@@ -18,6 +18,11 @@ import logic.reqRatesCounter;
 public class ErrorShowAction extends HttpServlet{
 	
 	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -9144111744491426633L;
+
+	/**
 	 * Constructor of the object.
 	 */
 	public ErrorShowAction() {
@@ -72,7 +77,7 @@ public class ErrorShowAction extends HttpServlet{
 					String[] strs2;
 					for (String str : strs1){
 						strs2 = str.split(",");
-						res += "{status : " + strs2[0] + " , url : '" + strs2[1] + "'},";
+						res += "{status : " + strs2[0] + " , url : '" + strs2[1] + "' , time : '" + strs2[2] + "'},";
 					}
 					res += "]";
 					return res;

@@ -22,7 +22,7 @@ Ext.onReady(function() {
     
     var gridsstore = Ext.create('Ext.data.Store', {
         storeId:'simpsonsStore',
-        fields:['status', 'url'],
+        fields:['status', 'url', 'time'],
         data:[]
     });
     
@@ -31,10 +31,11 @@ Ext.onReady(function() {
         store: gridsstore,
         region : 'south',
         columns: [
+            { text: 'Time' , dataIndex: 'time', width : 200},
             { text: 'Status', dataIndex: 'status' , width: 200},
             { text: 'Url', dataIndex: 'url', flex: 1 }
         ],
-        height: 300,
+        height: 260,
         width: 1560,
        
     });

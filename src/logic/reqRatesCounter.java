@@ -22,6 +22,7 @@ public class reqRatesCounter {
 	 */
 	public static String counter(int[] maxrate2, int[] minrate2, String path ) throws Exception{
 		String res = "";
+		String errorres = "";
 		File dir = new File(path);
 		if (!dir.exists() || !dir.isDirectory()) {
 			throw new Exception("No such App exists!");
@@ -35,8 +36,10 @@ public class reqRatesCounter {
 		File[] files = dir.listFiles();
 		Arrays.sort(files);
 		for (File day : files){
-			System.out.println(day.getName());
-			//res += day.getName();
+			String fname = day.getName();
+			System.out.println(fname);
+			errorres += fname+"\t";
+			String dayname  = fname.split(".t")[0];
 			String str;
 			int hour;
 			int errorNum;
@@ -52,8 +55,10 @@ public class reqRatesCounter {
 					strs = str.split("\t");
 					hour = Integer.parseInt(strs[1].split(" ")[1].split(":")[0]);
 					hourinfo[hour].hourRate++;
-					if (Integer.parseInt(strs[2])!=200)
+					if (Integer.parseInt(strs[2])!=200){
 						hourinfo[hour].errorNum++;
+						errorres += strs[2] + "," + strs[6] + " " + strs[7] + ";";
+					}
 					hourinfo[hour].avgPeriod+=Integer.parseInt(strs[5]);
 					i++;
 				}
@@ -61,6 +66,7 @@ public class reqRatesCounter {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
+			errorres += "\n";
 			for (int j=0;j<24;j++){
 				if (hourinfo[j].hourRate>maxrate) 
 					maxrate = hourinfo[j].hourRate;
@@ -69,7 +75,7 @@ public class reqRatesCounter {
 				
 				if (hourinfo[j].hourRate!=0)
 					hourinfo[j].avgPeriod /= hourinfo[j].hourRate;
-				res += j + "\t" + hourinfo[j].hourRate + "\t" + hourinfo[j].errorNum + "\t" + hourinfo[j].avgPeriod+ "\t" + "\n";
+				res += dayname + "\t" + hourinfo[j].hourRate + "\t" + hourinfo[j].errorNum + "\t" + hourinfo[j].avgPeriod+ "\t" + "\n";
 			}
 			//res += "\t" + i + "\n";
 		}
@@ -84,16 +90,21 @@ public class reqRatesCounter {
 			line = sinScanner.nextLine();
 			strs = line.split("\t");
 			rate = Integer.parseInt(strs[1]);
-			fres += 1.0 * (rate - minrate)/ interval + "\t" + strs[1] + "\t" + strs[2] + "\t" +strs[3] + "\n";
+			fres += 1.0 * (rate - minrate)/ interval + "\t" + strs[1] + "\t" + strs[2] + "\t" +strs[3] + "\t" + strs[0] + "\n";
 		}
-		
+		File errorfile = new File(dir.getParentFile(),appname + ".err");
+		if (errorfile.exists()) errorfile.delete();
 		targetfile =  new File(dir.getParentFile(),appname + ".txt");
 		if (targetfile.exists()) targetfile.delete();
 		BufferedWriter bout;
+		BufferedWriter bout1;
 		try {
 			bout = new BufferedWriter(new FileWriter(targetfile,true));
-								//   ip time stutus inb outb per mtd pth bsu bwr  
+								//   ip time stutus inb outb per mtd pth bsu bwr 
+			bout1 = new BufferedWriter(new FileWriter(errorfile,true));
 			bout.write(fres);
+			bout1.write(errorres);
+			bout1.close();
 			bout.close();
 		} catch (Exception e) {
 			// TODO Auto-generated catch block

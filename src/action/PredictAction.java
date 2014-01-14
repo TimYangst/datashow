@@ -123,7 +123,7 @@ public class PredictAction extends HttpServlet {
 																											//此处rate为归一化后的，需还原
 			interval = maxrate[0] - minrate[0];																
 		} catch (Exception e) {
-			//out.println(e.getMessage());
+			System.out.println(e.getMessage());
 			out.print("[]");
 			out.flush();
 			out.close();
@@ -135,12 +135,14 @@ public class PredictAction extends HttpServlet {
 		Scanner sinScanner=new Scanner(reqinfo);
 		String line = sinScanner.nextLine();
 		String[] strs = line.split("\t");
-		String src = "[{hour : 0 , rate : "+ strs[1] +" , numError : "+ strs[2] + " , period : " + String.format("%.0f",Double.valueOf(strs[3])) + "}";
+		String src = "[{hour : 0 , rate : "+ strs[1] +" , numError : "+ strs[2] + " , period : " + String.format("%.0f",Double.valueOf(strs[3])) 
+				+ " , day : '" + strs[4] + "'}";
 		int i = 0;
 		while (sinScanner.hasNext()){
 			line = sinScanner.nextLine();
 			strs = line.split("\t");
-			src += ", {hour : " + (++i) + " , rate : " + strs[1] +" , numError : "+ strs[2] + " , period : " + String.format("%.0f",Double.valueOf(strs[3])) + "}";
+			src += ", {hour : " + (++i) + " , rate : " + strs[1] +" , numError : "+ strs[2] + " , period : " + String.format("%.0f",Double.valueOf(strs[3])) 
+					+ " , day : '" + strs[4] + "'}";
 		}
 		String res = "";
 		for (int j=0;j<pdctres.length;j++){

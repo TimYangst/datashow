@@ -3,6 +3,7 @@ Ext.require(['Ext.layout.container.Fit', 'Ext.window.MessageBox']);
 
 Ext.onReady(function() {
 
+	var current = '';
     var downloadChart = function(chart){
         Ext.MessageBox.confirm('Confirm Download', 'Would you like to download the chart as an image?', function(choice){
             if(choice == 'yes'){
@@ -17,6 +18,25 @@ Ext.onReady(function() {
     var myMask = new Ext.LoadMask(Ext.getBody(), {
     	msg    : "loading...",
     	msgCls : 'z-index:10000;'
+    });
+    
+    var gridsstore = Ext.create('Ext.data.Store', {
+        storeId:'simpsonsStore',
+        fields:['status', 'url'],
+        data:[]
+    });
+    
+    var grids1 = Ext.create('Ext.grid.Panel', {
+        title: 'errors',
+        store: gridsstore,
+        region : 'south',
+        columns: [
+            { text: 'Status', dataIndex: 'status' , width: 200},
+            { text: 'Url', dataIndex: 'url', flex: 1 }
+        ],
+        height: 300,
+        width: 1560,
+       
     });
     
     var chart1 = Ext.create('Ext.chart.Chart',{
@@ -65,12 +85,33 @@ Ext.onReady(function() {
                 tips: {
                     trackMouse: true,
                     width: 100,
-                    height: 80,
+                    height: 100,
                     renderer: function(storeItem, item) {
                         this.setTitle('hour : ' + storeItem.get('hour'));
-                        this.update('rate : ' + storeItem.get('rate') + '<br/>' + 'period : ' + storeItem.get('period') + '<br/>'   + 'errors : ' + storeItem.get('numError'));
+                        this.update('rate : ' + storeItem.get('rate') + '<br/>' + 'period : ' + storeItem.get('period') + '<br/>'   + 'errors : ' + storeItem.get('numError')+'<br/>' + 'day : ' + storeItem.get('day'));
                     }
                 },
+                listeners : { itemclick : function(thisEl){ 
+                	
+                		var dt = thisEl.storeItem.data.day;
+                		
+                		 Ext.Ajax.request({
+                		    	url : 'showerror',
+                		    	params : {
+                		    		name : current,
+                		    		day : dt
+                		    	},
+                		    	success : function(response){
+                		    		var text =  response.responseText;
+                		    		
+                		    		grids1.title = dt + '\'s errors';
+                		    		grids1.store.loadData(Ext.JSON.decode(text));
+                		    	 
+                		    	}
+                		    });
+                	}
+                },
+                
                 style: {
                     fill: '#38B8BF',
                     stroke: '#38B8BF',
@@ -94,11 +135,31 @@ Ext.onReady(function() {
             	tips: {
                     trackMouse: true,
                     width: 100,
-                    height: 80,
+                    height: 100,
                     renderer: function(storeItem, item) {
                         this.setTitle('time : ' + storeItem.get('hour'));
-                        this.update('rate : ' + storeItem.get('rate') + '<br/>' + 'period : ' + storeItem.get('period') + '<br/>' + 'errors : ' + storeItem.get('numError'));
+                        this.update('rate : ' + storeItem.get('rate') + '<br/>' + 'period : ' + storeItem.get('period') + '<br/>' + 'errors : ' + storeItem.get('numError')+'<br/>' + 'day : ' + storeItem.get('day'));
                     }
+                },
+                listeners : { itemclick : function(thisEl){ 
+                	
+            		var dt = thisEl.storeItem.data.day;
+            		
+            		 Ext.Ajax.request({
+            		    	url : 'showerror',
+            		    	params : {
+            		    		name : current,
+            		    		day : dt
+            		    	},
+            		    	success : function(response){
+            		    		var text =  response.responseText;
+            		    		
+            		    		grids1.title = dt + '\'s errors';
+            		    		grids1.store.loadData(Ext.JSON.decode(text));
+            		    	 
+            		    	}
+            		    });
+            		}
                 },
                 style: {
                     fill: '#9400D3',
@@ -123,8 +184,6 @@ Ext.onReady(function() {
     		type : 'ajax',
     		url : 'combo'
     	}
-    
-    	
     });
    //combostore.load();
     
@@ -135,6 +194,7 @@ Ext.onReady(function() {
         listeners: {
         	'select' : function(){
         	     myMask.show();
+        	     current =  combp.getValue();
         		 Ext.Ajax.request({
         		    	url : 'predict',
         		    	params : {
@@ -144,7 +204,7 @@ Ext.onReady(function() {
         		    		var text =  response.responseText;
         		    	
         		    		window.datastore =  Ext.create('Ext.data.JsonStore',{
-        		    	    	fields: ['hour', 'rate', 'period', 'numError' ],
+        		    			fields: ['hour', 'rate', 'period', 'numError', 'day'],
         		    	    	data :Ext.JSON.decode(text)
         		    	    });
         		    		
@@ -173,12 +233,13 @@ Ext.onReady(function() {
     		}
     	});
     }
+   
     
     var panel1 = Ext.create('widget.panel', {
-        width: 1600,
-        height: 800,
+        width: 1560,
+        height: 480,
         title: 'Service Prediction',
-        renderTo: Ext.getBody(),
+        region : 'north',
         layout: 'border',
         tbar: [{
             text: 'Save Chart',
@@ -192,24 +253,16 @@ Ext.onReady(function() {
         }],
         items:  chart1 
     });
-   
     
-    myMask.show();
+  
     
-    Ext.Ajax.request({
-    	url : 'predict',
-    	success : function(response){
-    		var text =  response.responseText;
-    		
-    		window.datastore =  Ext.create('Ext.data.JsonStore',{
-    	    	fields: ['hour', 'rate','period', 'numError'],
-    	    	data : Ext.JSON.decode(text)
-    	    });
-    		
-    		chart1.store =  window.datastore;
-    		chart1.redraw();
-    	    myMask.hide();
-    	}
+    var mainpanel =  Ext.create('widget.panel', {
+        width : 1600,
+        height : 800,
+    	renderTo: Ext.getBody(),
+    	items : [panel1, grids1]
     });
+   
+ 
   
 });
